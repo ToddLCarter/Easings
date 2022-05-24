@@ -1,4 +1,4 @@
-# Easings
+# Easings [![](https://jitpack.io/v/ToddLCarter/Easings.svg)](https://jitpack.io/#ToddLCarter/Easings)
 Lightweight time-based animation library
 
 # Usage
