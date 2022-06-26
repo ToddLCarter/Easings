@@ -44,7 +44,15 @@ Easing.ELASTIC_IN_OUT,
 
 Easing.BOUNCE_OUT,
 Easing.BOUNCE_IN,
-Easing.BOUNCE_IN_OUT;
+Easing.BOUNCE_IN_OUT
+```
+
+## Built in Animation Types
+```java
+AnimationType.ONCE,
+AnimationType.LOOP,
+AnimationType.LOOP_REVERSE,
+AnimationType.REVERSED
 ```
 
 
